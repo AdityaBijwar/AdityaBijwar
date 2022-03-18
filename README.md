@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaBijwar
-- 👀 I’m interested in ... app developers and product managements 
+- 👀 I’m interested in ... web developers and product managers
 - 🌱 I’m currently learning ... credits in SQL 
 - 💞️ I’m looking to collaborate on ...   
 - 📫 How to reach me ... adityabijwar966@gmail.com 
