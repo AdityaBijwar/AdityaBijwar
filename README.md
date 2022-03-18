@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdityaBijwar
 - 👀 I’m interested in ... web developers and product managers
 - 🌱 I’m currently learning ... credits in SQL 
-- 💞️ I’m looking to collaborate on ...   
+- 💞️ I’m looking to collaborate on ...  a web development project for student portfolio
 - 📫 How to reach me ... adityabijwar966@gmail.com 
 
 <!---
