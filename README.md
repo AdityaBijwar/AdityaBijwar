@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @AdityaBijwar
-- 👀 I’m interested in ... web developers and product managers
-- 🌱 I’m currently learning ... credits in SQL 
-- 💞️ I’m looking to collaborate on ...  a web development project for student portfolio
-- 📫 How to reach me ... adityabijwar966@gmail.com 
-
-<!---
-AdityaBijwar/AdityaBijwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GenAI | AL/ML | PLC / SCADA | Robotics & AI | Tech Enthusiast | Rotaractor
+Junior AI/ML and Data Science professional skilled in Python-based machine learning, deep learning, and forecasting. Experienced in building end-to-end ML pipelines from data preparation to model evaluation, with foundational knowledge of generative AI, LLMOps, MLOps, and enterprise AIOps environments.
